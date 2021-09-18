@@ -1,4 +1,4 @@
-# Gulp ES6 
+# Gulp-4 ES6 
 # Install
 npm i
 
